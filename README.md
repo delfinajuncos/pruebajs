@@ -1,1 +1,1 @@
-# pruebajs
+# prueba-js
